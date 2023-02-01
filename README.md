@@ -1,0 +1,1 @@
+# redmi-samart-band-2
