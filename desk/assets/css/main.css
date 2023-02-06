@@ -405,7 +405,7 @@ z-index: 1;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: -0.761719rem;
+  margin-left: -0.9rem;
   margin-top: 0.292969rem;
   min-height: 0.472656rem;
   width: 0.523438rem;
@@ -414,9 +414,8 @@ z-index: 1;
 .div1.fly-birds-page_7fc006e7df .div9 .div34 .div36 .split_text378 {
   color: #000;
   font-size: 0.101563rem;
-  line-height: 0.125rem;
   text-align: left;
-  width: 0.605469rem;
+  width: 1rem;
 }
 .div1.fly-birds-page_7fc006e7df .div37 {
   align-items: flex-start;
@@ -1325,6 +1324,7 @@ z-index: 1;
   justify-content: center;
   min-height: 0.453125rem;
   width: 2rem;
+  margin-bottom: 0.15rem;
 }
 .div1.fly-birds-page_7fc006e7df .div101 .div103 .div104 .split_text408 {
   color: #000;
@@ -1478,7 +1478,7 @@ z-index: 1;
   letter-spacing: -1px;
   line-height: 0.28125rem;
   text-align: left;
-  width: 4rem;
+  width: 2.5rem;
 }
 .hairlines
   .div1.fly-birds-page_7fc006e7df
