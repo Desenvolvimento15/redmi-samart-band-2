@@ -341,12 +341,12 @@
   z-index: 1;
 }
 .div1.fly-birds-page_7fc006e7df .div9 .div27 .div30 .split_text376 {
-  color: #000;
-  font-size: 0.101563rem;
-  line-height: 0.117188rem;
-  opacity: 0.6;
-  text-align: left;
-  width: 0.871094rem;
+    color: #000;
+    font-size: 0.101563rem;
+    line-height: 0.117188rem;
+    opacity: 0.6;
+    text-align: left;
+    width: 1rem;
 }
 .div1.fly-birds-page_7fc006e7df .div9 .div31 {
   align-items: center;
@@ -839,7 +839,7 @@ z-index: 1;
   letter-spacing: -1px;
   line-height: 0.28125rem;
   text-align: left;
-  width: 2.171875rem;
+  width: 2.71875rem;
 }
 .hairlines .div1.fly-birds-page_7fc006e7df .div62 .div64 .div65 .split_text400 {
   letter-spacing: -0.5px;
@@ -860,7 +860,7 @@ z-index: 1;
   letter-spacing: -1px;
   line-height: 0.28125rem;
   text-align: left;
-  width: 2.167969rem;
+  width: 2.67969rem;
 }
 .hairlines .div1.fly-birds-page_7fc006e7df .div62 .div64 .div66 .split_text401 {
   letter-spacing: -0.5px;
@@ -880,8 +880,8 @@ z-index: 1;
   letter-spacing: 0;
   line-height: 0.15625rem;
   text-align: left;
-  width: 2.171875rem;
-}
+  width: 3rem;
+} 
 .div1.fly-birds-page_7fc006e7df .div62 .div68 {
   align-items: center;
   display: flex;
@@ -1020,7 +1020,7 @@ z-index: 1;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 0.46875rem;
+  min-height: 0.38rem;
   width: 0.433594rem;
 }
 .div1.fly-birds-page_7fc006e7df .div62 .div68 .div79 .div80 .image81 {
