@@ -186,17 +186,17 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: -0.0625rem;
+
   margin-top: -9.4375rem;
   min-height: 2.708333rem;
-  width: 6.8125rem;
+
   z-index: 1;
 }
 .div1.fly-birds-page_a2ed3bfa14 .div9 .div18 .div20 .split_text296 {
   color: #000;
   font-size: 0.833333rem;
   line-height: 0.958333rem;
-  text-align: left;
+  text-align: center;
   width: 7.541667rem;
 }
 .div1.fly-birds-page_a2ed3bfa14 .div9 .div21 {
@@ -315,17 +315,15 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: -3.416667rem;
   margin-top: -9.291667rem;
   min-height: 0.520833rem;
-  width: 1.916667rem;
   z-index: 2;
 }
 .div1.fly-birds-page_a2ed3bfa14 .div9 .div29 .div31 .split_text300 {
   color: #000;
   font-size: 0.75rem;
   line-height: 0.958333rem;
-  text-align: left;
+  text-align: center;
   width: 6.145833rem;
 }
 .div1.fly-birds-page_a2ed3bfa14 .div9 .div29 .div32 {
@@ -366,7 +364,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: 4.645833rem;
+  margin-left: 8.645833rem;
   margin-top: -8.708333rem;
   min-height: 1.541667rem;
   width: 8.145833rem;
@@ -385,8 +383,8 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: -9.020833rem;
-  margin-top: -1.416667rem;
+  margin-left: -5.02083rem;
+  margin-top: -1.41667rem;
   min-height: 1.1875rem;
   width: 3.5625rem;
   z-index: 2;
@@ -441,7 +439,7 @@
   letter-spacing: -1px;
   line-height: 1.5rem;
   text-align: center;
-  width: 20.416667rem;
+  width: 25rem;
 }
 .hairlines .div1.fly-birds-page_a2ed3bfa14 .div37 .div39 .div40 .split_text310 {
   letter-spacing: -0.5px;
@@ -1064,7 +1062,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height: 3.3125rem;
+  min-height: 2.3125rem;
   width: 2.958333rem;
 }
 .div1.fly-birds-page_a2ed3bfa14 .div65 .div71 .div82 .div83 .image84 {
@@ -1436,7 +1434,8 @@
   letter-spacing: -1px;
   line-height: 1.5rem;
   text-align: center;
-  width: 10rem;
+  width: 18rem;
+  margin-bottom: 1rem;
 }
 .hairlines
   .div1.fly-birds-page_a2ed3bfa14
